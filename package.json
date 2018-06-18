@@ -18,14 +18,14 @@
     "url": "https://github.com/subicura/hubot-slack-jenkins-chatops/issues"
   },
   "dependencies": {
-    "@slack/interactive-messages": "^0.2.0",
+    "@slack/interactive-messages": "^0.4.0",
     "hubot": "^2.19.0",
     "hubot-diagnostics": "0.0.2",
     "hubot-help": "^0.2.2",
     "hubot-redis-brain": "0.0.4",
     "hubot-rules": "^0.1.2",
     "hubot-slack": "^4.4.0",
-    "jenkins": "^0.20.1"
+    "jenkins": "^0.22.1"
   },
   "engines": {
     "node": "0.10.x"
